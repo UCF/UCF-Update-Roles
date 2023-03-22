@@ -2,7 +2,7 @@
 /*
 Plugin Name: UCF Update Roles
 Description: Updates capabilities on non-super admins.
-Version: 1.0.0
+Version: 1.0.1
 Author: UCF Web Communications
 License: GPL3
 */

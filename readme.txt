@@ -2,8 +2,8 @@
 Contributors: ucfwebcom
 Tags: ucf, kses, unfiltered_html, roles
 Requires at least: 2.0.0
-Tested up to: 4.7.3
-Stable tag: 1.0.0
+Tested up to: 6.1
+Stable tag: 1.0.1
 License: GPLv3 or later
 License URI: http://www.gnu.org/copyleft/gpl-3.0.html
 
@@ -23,7 +23,11 @@ Updates the administrator and editors roles on a multisite to allow the 'unfilte
 
 = WP CLI Installation =
 1. `$ wp plugin install --activate https://github.com/UCF/UCF-Update-Roles/archive/master.zip`.  See [WP-CLI Docs](http://wp-cli.org/commands/plugin/install/) for more command options.
-    
+
+= 1.0.1 =
+Enhancements:
+* Added composer file.
+
 = 1.0.0 =
 
 * Initial Release

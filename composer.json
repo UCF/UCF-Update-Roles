@@ -1,0 +1,8 @@
+{
+    "name": "ucf/ucf-update-roles",
+    "description": "Updates the administrator and editors roles on a multisite to allow the 'unfiltered_html' capability.",
+    "type": "wordpress-plugin",
+    "require": {
+        "composer/installers": "~1.0"
+    }
+}
